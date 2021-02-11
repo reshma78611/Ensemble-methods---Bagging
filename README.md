@@ -15,4 +15,4 @@
              Python
              
              
-**The Codes regarding Ensemble Techniques with *Bagging Technique for classification of Pima indians diabetes data* is present in this Repository in detail.
+**The Codes regarding Ensemble Techniques with *Bagging Technique for classification of Pima indians diabetes data* is present in this Repository in detail.**
